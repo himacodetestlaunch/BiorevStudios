@@ -5,24 +5,7 @@ This project contains automated tests for the login functionality of the Heroku 
 ## Overview
 This automated test suite demonstrates my ability to create maintainable, scalable test automation using modern frameworks and best practices. The project showcases test strategy, code organization, and technical implementation skills.
 
-Project Structure
-BiorevStudios/
-├── cypress/
-│   ├── downloads/         # Downloaded files during test execution
-│   ├── e2e/               # Test files
-│   │   └── login.cy.js    # Login functionality tests
-│   ├── fixtures/          # Test data files
-│   │   └── example.json   # Example test data
-│   └── support/           # Support files and utilities
-│       ├── commands.js    # Custom Cypress commands
-│       ├── e2e.js         # e2e configuration
-│       └── pages/         # Page Object Models
-│           └── LoginPage.js  # Login page object
-├── node_modules/          # Node.js modules
-├── cypress.config.js      # Cypress configuration
-├── package-lock.json      # Package dependencies lock file
-├── package.json           # Project configuration
-└── README.md              # Project documentation
+<pre> ## Project Structure ``` BiorevStudios/ ├── cypress/ │ ├── downloads/ # Downloaded files during test execution │ ├── e2e/ # Test files │ │ └── login.cy.js # Login functionality tests │ ├── fixtures/ # Test data files │ │ └── example.json # Example test data │ └── support/ # Support files and utilities │ ├── commands.js # Custom Cypress commands │ ├── e2e.js # e2e configuration │ └── pages/ # Page Object Models │ └── LoginPage.js # Login page object ├── node_modules/ # Node.js modules ├── cypress.config.js # Cypress configuration ├── package-lock.json # Package dependencies lock file ├── package.json # Project configuration └── README.md # Project documentation ``` </pre>
 
 
 ## Setup Instructions
