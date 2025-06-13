@@ -1,0 +1,25 @@
+{
+  "name": "biorevstudios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "cypress run",
+  "cypress:open": "cypress open"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himacodetestlaunch/BiorevStudios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/himacodetestlaunch/BiorevStudios/issues"
+  },
+  "homepage": "https://github.com/himacodetestlaunch/BiorevStudios#readme",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
