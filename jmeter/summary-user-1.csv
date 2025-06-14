@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET /posts,2324,47,35,187,8.99,0.000%,19.34587,545.81,2.61,28890.4
+TOTAL,2324,47,35,187,8.99,0.000%,19.34587,545.81,2.61,28890.4
